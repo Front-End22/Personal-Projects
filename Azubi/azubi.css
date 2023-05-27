@@ -60,7 +60,7 @@ ul a{
 #hero-section {
     display: flex;
     margin: 10rem 7rem;
-    font-size: 1.6rem;
+    font-size: 2.25rem;
 }
 
 .left-hero {
@@ -79,11 +79,11 @@ ul a{
 }
 
 button {
-    padding: 1rem;
-    width: auto;
+    padding: 2rem 2rem;
+    max-width: auto;
     background-color: #145275;
     color: #fff;
-    font-size: 1rem;
+    font-size: 1.7rem;
     font-weight: 600;
     border-radius: 10px;
     cursor: pointer;
