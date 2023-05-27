@@ -167,7 +167,6 @@ h6 {
     }
     .fa {
         display: flex;
-        margin-top: 15px;
     }
 
     #hero-section {
@@ -175,6 +174,7 @@ h6 {
         flex-direction: column;
         text-align: center;
         gap: 7rem;
+        margin: 7rem 4rem;
     }
 
     #header-service {
